@@ -3,7 +3,7 @@
 ## Instructions
 
 You will have to implement a PHP script that uses MySQL query to show information about all of the current department managers.
-You will also have to wrap the PHP script and other resources into a Docker image and add it as a service into `docker-compose.yml` as well. You should expose a port to make the server accessible at `localhost:28081`. Note that you can access the MySQL instance at `mysql:13306` from inside your container.
+You will also have to wrap the PHP script and other resources into a Docker image and add it as a service into `docker-compose.yml` as well. You should expose a port to make the server accessible at `localhost:28081`. Note that you can access the MySQL instance at `mysql:3306` from inside your container.
 
 The required information returned from the SQL query, sorted ascendingly by the time they start to supervise the department, include:
 
