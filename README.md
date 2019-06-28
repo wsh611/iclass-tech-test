@@ -6,8 +6,9 @@ Welcome to this deeply insane technical test. You are suggested to open this wit
 - Docker/Docker Compose
 - Linux/Linux scripting
 - Raw HTML/JS/CSS
-- PHP
+- Raw PHP
 - MySQL
+- Laravel
 
 Each of the subdirectory in this folder is a suite of challenges for the specific technologies. You are not required to complete all of them, we just want to know how much do you know. However, given that our deployment use Docker, Docker knowledge is mandatory to solve these challenges.
 
